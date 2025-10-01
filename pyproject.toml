@@ -6,4 +6,6 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "finnhub-python>=2.4.25",
+    "langchain>=0.3.27",
+    "langchain-core>=0.3.76",
 ]
